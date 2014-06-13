@@ -1,11 +1,11 @@
-jQuery plugin include
+jQuery include plugin
 ================
-This jQuery plugin is there to help developers including another html file in a html file.
-In this plugin you can access to included content in $(document).ready function.
+This jQuery plugin is here to help developers include another html file in a html file.
+In this plugin you can access included content in $(document).ready function.
 
 How to use it?
 ================
-Include the plugin in your code
+To include the plugin in your code:
 
 	<script src="jquery.include.js"></script>
 
